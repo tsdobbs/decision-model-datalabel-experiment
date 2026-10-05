@@ -1,0 +1,341 @@
+raw_label,canonical_name,canonical_name_confidence,canonical_submeasurement,canonical_submeasurement_confidence,canonical_unit,canonical_unit_confidence,canonical_process_location,canonical_process_location_confidence,canonical_signal_type,canonical_signal_type_confidence,needs_review
+Pump D commanded flow rate (mL/h),Pump,0.9089,Flowrate,0.998,milliliter/second,0.338,Pump Line,0.9587,CO,0.813,False
+Off-gas O₂% raw from PCB (%),Oxygen,0.7487,Other Metadata,0.2685,milliliter,0.2929,Offgas,1,PV,0.736,True
+Total headspace gas flow (mL/min),Gas,0.9231,Flowrate,0.9436,milliliter,0.8136,Headspace,1,PV,0.6561,False
+Pump B pulse flow off time_SP (s),Pump,0.9156,Cycle Time,0.5339,milliliter,0.6778,Pump Line,0.9559,SP,0.7155,False
+Pump D refill rate_SP (mL/h),Pump,0.3299,Flowrate,0.7765,hour,0.666,Pump Line,0.9944,SP,0.6418,True
+Base flow rate (mL/h),Base,1,Flowrate,0.9906,milliliter/second,0.5089,Base Line,1,PV,0.685,False
+Pump C CIP start volume (mL),Pump,0.9533,Total Volume,0.6555,milliliter,0.5738,Feed Line,0.3596,PV,0.3237,True
+Pump A total volume_SP (mL),Steam,0.8292,Total Volume,0.9973,milliliter,0.7314,Feed Line,0.2949,SP,0.6978,True
+Pump C pump command,Pump,0.9322,Flowrate,0.3704,milliliter,0.8366,Pump Line,0.9252,CO,0.7297,True
+Feed#2 volume since reset (mL),Feed,0.9981,Total Volume,0.9445,milliliter,0.3748,Feed Line,0.8202,PV,0.7002,False
+Foam sensor enabled_SP,Antifoam,0.2281,Other Metadata,0.3444,milliliter,0.4915,Feed Line,0.394,SP,0.5051,True
+Stir maximum power (W),Stirrate,0.9999,Cycle Time,0.1936,milliliter,0.4581,Feed Line,0.348,PV,0.6878,True
+Pump A total volume (motor counts) (counts),Air,0.3117,Total Volume,0.9942,milliliter,0.3483,Pump Line,0.6798,PV,0.7321,True
+N₂ flow_SP (mL/min),Steam,0.5378,Flowrate,0.9914,milliliter/second,0.255,Feed Line,0.4049,SP,0.5473,True
+Stir direction_SP,Stirrate,0.7555,Speed,0.3267,milliliter,0.6909,Feed Line,0.3413,SP,0.6358,True
+Steps locked for editing,Temperature,0.2147,Other Metadata,0.3156,milliliter,0.5838,Sample,0.4759,PV,0.5739,True
+Feed#2 reference volume pumped (mL),Pump,0.8159,Total Volume,0.417,milliliter,0.536,Pump Line,0.4929,PV,0.7266,True
+CO₂ added flow_SP (mL/min),Steam,0.6164,Flowrate,0.9672,milliliter,0.646,Feed Line,0.3218,SP,0.4246,True
+OUR (simple) (mmol/L/h),OUR,0.9994,Flowrate,0.3024,hour,0.9828,Feed Line,0.3256,PV,0.7376,True
+Stir average speed (rpm),Stirrate,0.9998,Speed,0.9985,milliliter,0.5621,Feed Line,0.3768,PV,0.738,True
+Air (headspace) added flow_SP (mL/min),Air,0.9356,Flowrate,0.8968,milliliter,0.4452,Headspace,0.9881,SP,0.5413,False
+Export enabled_SP,Temperature,0.2164,Other Metadata,0.4689,milliliter,0.5351,Sample,0.9863,SP,0.5732,True
+Pump C syringe position (counts),Pump,0.9582,Position,0.9249,milliliter,0.4021,Feed Line,0.5138,PV,0.8412,False
+Pump D stopped for change,Pump,0.9992,On/Off,0.7302,milliliter,0.5568,Pump Line,0.993,PV,0.433,True
+Feed#1 volume since reset (mL),Feed,0.9923,Total Volume,0.9325,milliliter,0.5824,Feed Line,0.7714,PV,0.6764,False
+Chiller (%),Chiller,1,% Activated,0.2528,,0.2218,Feed Line,0.346,PV,0.6264,True
+Pump A syringe percent full (%),Air,0.2382,Speed,0.6499,percent,1,Feed Line,0.5906,PV,0.7157,True
+Total gas flow (mL/min),Gas,0.9994,Flowrate,0.9488,milliliter,0.7489,Offgas,0.4967,PV,0.6073,True
+Antifoam volume since reset reference (mL),Antifoam,0.8915,Total Volume,0.6256,milliliter,0.3613,Feed Line,0.3739,PV,0.6869,True
+N₂ correction factor,CER,0.1691,Other Metadata,0.5922,milliliter,0.607,Feed Line,0.3389,PV,0.7441,True
+Acid flow rate (raw) (mL/h),Acid,0.9953,Flowrate,0.9944,milliliter/minute,0.2483,Acid Line,1,PV,0.7381,False
+N₂ (headspace) primary flow_SP (mL/min),Steam,0.4457,Flowrate,0.8331,milliliter,0.4198,Headspace,1,SP,0.4818,True
+Pump C bolus volume SP (mL),Pump,0.9793,Total Volume,0.3307,milliliter,0.358,Pump Line,0.8587,SP,0.4524,True
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.LastDifferentialError,Carbon Dioxide,0.1286,Other Metadata,0.7848,milliliter,0.2709,Feed Line,0.2926,PV,0.715,True
+Pump B syringe position (counts),Pump,0.9844,Position,0.9886,milliliter,0.4551,Feed Line,0.5122,PV,0.8924,False
+Pump C pulse flow rate (mL/h),Pump,0.9463,Flowrate,0.9967,milliliter,0.27,Pump Line,0.3783,CO,0.365,True
+Antifoam volume pumped (mL),Antifoam,0.9971,Flowrate,0.8267,milliliter,0.4761,Pump Line,0.3481,PV,0.6593,True
+N₂ valve open (%),Steam,0.3557,On/Off,0.4808,milliliter,0.3747,Feed Line,0.2472,PV,0.7765,True
+O₂ (headspace) correction factor,Air,0.2437,Other Metadata,0.4007,milliliter,0.6222,Headspace,0.9988,PV,0.712,True
+Acid volume pumped (mL),Acid,0.995,Flowrate,0.8304,milliliter,0.3183,Acid Line,1,PV,0.7491,False
+Pump C commanded total volume (mL),Pump,0.9929,Total Volume,0.9993,milliliter,0.4913,Pump Line,0.4485,CO,0.9409,True
+pH.Probe (pH),pH,0.9677,Other Metadata,0.4769,milliliter,0.4597,Broth,0.2645,PV,0.7283,True
+Pump B CIP remaining volume (mL),Pump,0.9807,Total Volume,0.9826,milliliter,0.4543,Feed Line,0.3238,PV,0.6076,True
+Pump C internal flow rate multiplier_SP,Pump,0.9778,Flowrate,0.6815,milliliter,0.8287,Pump Line,1,SP,0.446,True
+Pump A CIP start volume (mL),CIP,0.9743,Total Volume,0.7429,milliliter,0.4827,Feed Line,0.3221,PV,0.3732,True
+O₂ volume (L),Steam,0.2213,Total Volume,0.9444,milliliter,0.535,Broth,0.2822,PV,0.7467,True
+N₂ mix_SP (%),Steam,0.2452,Other Metadata,0.3506,,0.5982,Feed Line,0.3511,PV,0.6102,True
+Stir maximum speed (rpm),Stirrate,1,Speed,0.9951,milliliter,0.6365,Feed Line,0.343,PV,0.6155,True
+Base flow rate (raw) (mL/h),Base,1,Flowrate,0.9915,milliliter,0.3449,Base Line,0.9872,PV,0.6725,False
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.IsEnabled_SP,Temperature,0.1509,On/Off,0.7784,milliliter,0.5122,Sample,0.8325,SP,0.4299,True
+Feed#4 flow rate (raw) (mL/h),Feed,0.9959,Flowrate,0.9961,milliliter/second,0.4531,Feed Line,0.8124,PV,0.7215,False
+Pump B stopped for change,Pump,0.9992,On/Off,0.8721,milliliter,0.5089,Pump Line,0.9774,PV,0.3441,True
+N₂ (headspace) added flow_SP (mL/min),Steam,0.4332,Flowrate,0.9649,milliliter,0.6856,Headspace,1,PV,0.4626,True
+Gas set,Gas,0.9997,Other Metadata,0.3473,bar,0.978,Feed Line,0.2879,PV,0.5804,True
+Pump C commanded flow rate (mL/h),Pump,0.9443,Flowrate,0.9977,milliliter,0.3004,Pump Line,0.9963,CO,0.9267,False
+Air (headspace) valve open_SP (%),Air,0.6901,Other Metadata,0.3557,milliliter,0.6405,Headspace,0.9841,SP,0.4356,True
+N₂ (headspace) valve open (%),Steam,0.2782,Other Metadata,0.2783,milliliter,0.452,Headspace,1,PV,0.7162,True
+CO₂ (headspace) added flow_SP (mL/min),Steam,0.6211,Flowrate,0.9065,milliliter,0.7672,Headspace,0.9698,SP,0.4961,True
+Bioreactor pressure reading (mbar),Pressure,1,Flowrate,0.9509,bar,0.9997,Feed Line,0.3176,PV,0.9014,True
+Pump A respond to hardware interlock_SP,Pump,0.3184,Flowrate,0.4679,bar,0.5197,Pump Line,0.6332,SP,0.6411,True
+Pump A bolus volume SP (mL),Pump,0.2449,Total Volume,0.5294,milliliter,0.4606,Pump Line,0.4171,SP,0.7455,True
+Volume pipetted - Antifoam solution (mL),Antifoam,0.9599,Total Volume,0.7688,milliliter,0.3979,Feed Line,0.4472,PV,0.7222,True
+Antifoam flow rate (mL/h),Antifoam,0.9963,Flowrate,0.9979,milliliter/second,0.2846,Feed Line,0.307,PV,0.6614,True
+Base volume pumped (mL),Base,1,Total Volume,0.8622,milliliter/second,0.3219,Base Line,0.89,PV,0.7695,False
+O₂ flow (mL/min),Steam,0.3795,Flowrate,0.9934,milliliter,0.3996,Feed Line,0.2308,PV,0.7602,True
+CER - unnormalized (simple) (mmol/h),CER,1,Other Metadata,0.3234,hour,0.2863,Feed Line,0.3991,PV,0.652,True
+N₂ (headspace) correction factor,Air,0.311,Other Metadata,0.4521,milliliter,0.5664,Headspace,0.9999,PV,0.7013,True
+Feed#3 reference volume pumped (mL),Pump,0.8123,Total Volume,0.4499,milliliter,0.4814,Feed Line,0.4972,PV,0.7795,True
+Feed#2 flow rate (raw) (mL/h),Feed,0.9989,Flowrate,0.9955,milliliter/second,0.3592,Feed Line,0.8618,PV,0.6844,False
+Pump D total volume (motor counts) (counts),Pump,0.3811,Total Volume,0.8512,milliliter,0.5097,Pump Line,0.6376,PV,0.739,True
+Mass loss (g),Gas,0.7327,Flowrate,0.4804,milliliter,0.4643,Offgas,0.8086,PV,0.6131,True
+Off-gas calculations suppressed,Gas,0.4457,Other Metadata,0.4234,milliliter,0.7195,Offgas,1,PV,0.5446,True
+CO₂ valve open (%),Steam,0.2623,On/Off,0.496,milliliter,0.2656,Feed Line,0.2533,PV,0.6989,True
+N₂ (headspace) mix_SP (%),Air,0.2133,Other Metadata,0.514,milliliter,0.7208,Headspace,0.9991,PV,0.6478,True
+Off-gas H₂O% (%),Gas,0.4898,Other Metadata,0.2816,milliliter,0.3418,Offgas,1,PV,0.8069,True
+Temperature (°C),Temperature,0.9931,Other Metadata,0.6202,kilogram,0.353,Feed Line,0.3432,PV,0.699,True
+Volume - sampled (mL),Air,0.4843,Total Volume,0.9832,milliliter,0.635,Sample,1,PV,0.8575,True
+Air volume (L),Air,1,Total Volume,0.9202,milliliter,0.5606,Feed Line,0.3145,PV,0.6883,True
+Feed#3 volume since reset (mL),Feed,0.9955,Total Volume,0.975,milliliter,0.385,Feed Line,0.8039,PV,0.7205,False
+O₂ flow_SP (mL/min),Steam,0.5974,Flowrate,0.9938,milliliter,0.3766,Offgas,0.5222,PV,0.5078,False
+DO (% air sat.),Air,0.999,On/Off,0.2479,percent air saturation,0.3156,Feed Line,0.4138,PV,0.692,True
+Feed#2 flow rate_SP (mL/h),Feed,0.9007,Flowrate,0.9909,hour,0.2908,Feed Line,0.8398,SP,0.5336,False
+O₂ mix_SP (%),Steam,0.2563,Flowrate,0.6201,milliliter,0.5248,Offgas,0.3265,PV,0.6275,True
+Feed#1 reference volume pumped (mL),Pump,0.6622,Total Volume,0.556,milliliter,0.606,Feed Line,0.5853,PV,0.7594,False
+Air added flow_SP (mL/min),Air,0.9988,Flowrate,0.9906,milliliter,0.4496,Feed Line,0.395,SP,0.4668,True
+Off-gas CO₂ thermistor reading (a-to-d count),Gas,0.5023,Other Metadata,0.4162,milliliter,0.6734,Offgas,1,PV,0.8484,True
+Feed#4 volume since reset (mL),Feed,0.9923,Total Volume,0.9683,milliliter,0.4437,Feed Line,0.7843,PV,0.7334,False
+Pump A syringe position (counts),Air,0.2331,Position,0.5436,milliliter,0.317,Feed Line,0.5294,PV,0.8176,True
+Pump C respond to hardware interlock_SP,Pump,0.8925,Flowrate,0.3916,milliliter,0.4961,Pump Line,0.9984,SP,0.47,True
+Volume pipetted - Unknown (mL),Air,0.1987,Total Volume,0.9035,milliliter,0.8146,Feed Line,0.4365,PV,0.8323,True
+Pump D syringe position (counts),Pump,0.5718,Position,0.9408,milliliter,0.3785,Feed Line,0.4159,PV,0.8373,True
+Clamp plate chiller (%),Chiller,0.9997,Other Metadata,0.277,milliliter,0.2869,Clamp Plate,0.9351,PV,0.6278,True
+Stir power standard deviation (W),Stirrate,0.7882,Flowrate,0.4684,milliliter,0.6216,Broth,0.3439,PV,0.8237,True
+Pump D pulse flow on time_SP (s),Pump,0.4384,Cycle Time,0.3764,milliliter,0.6914,Pump Line,0.9907,SP,0.7444,True
+O₂ (headspace) mix_SP (%),Steam,0.2375,Other Metadata,0.5543,milliliter,0.7735,Headspace,0.9974,PV,0.6426,True
+Total O₂ flow (mL/min),Oxygen,0.9998,Flowrate,0.992,milliliter,0.7883,Offgas,0.7207,PV,0.7231,False
+O₂ (headspace) flow_SP (mL/min),Steam,0.5601,Flowrate,0.9773,milliliter,0.5433,Headspace,0.9682,SP,0.4584,True
+OUR_SP (mmol/L/h),OUR,1,Other Metadata,0.2773,hour,0.7877,Sample,0.4751,PV,0.7256,True
+Feed#2 volume pumped (mL),Pump,0.9696,Total Volume,0.4362,milliliter,0.4985,Feed Line,0.7758,PV,0.731,True
+Pump D syringe percent full (%),Pump,0.5382,Speed,0.5689,percent,0.9981,Feed Line,0.4453,PV,0.7253,True
+Temperature_SP (°C),Temperature,0.7238,Other Metadata,0.4964,milliliter,0.2747,Feed Line,0.3915,SP,0.7606,True
+Air correction factor,Air,0.9568,Other Metadata,0.6942,milliliter,0.6542,Feed Line,0.4222,PV,0.6931,True
+Pump A volume relative to inlet (mL),Steam,0.2135,Total Volume,0.8715,milliliter,0.654,Pump Line,0.3245,PV,0.6357,True
+Pump C total volume (motor counts) (counts),CER,0.8402,Total Volume,0.9149,milliliter,0.3731,Pump Line,0.737,PV,0.7241,False
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.LastError (raw),Air,0.1506,Other Metadata,0.6971,milliliter,0.3072,Feed Line,0.2235,PV,0.7105,True
+O₂ primary flow_SP (mL/min),Steam,0.9578,Flowrate,0.9583,milliliter,0.4861,Offgas,0.4553,SP,0.5605,True
+Stir speed standard deviation (rpm),Stirrate,0.9976,Speed,0.9297,milliliter,0.5064,Broth,0.3418,PV,0.8722,True
+Feed#4 flow rate (mL/h),Feed,0.9944,Flowrate,0.994,milliliter/second,0.5408,Feed Line,0.8279,PV,0.7515,False
+CO₂ interpretation pressure_SP (mbar),Pressure,1,Other Metadata,0.4945,bar,0.9854,Feed Line,0.2703,PV,0.5271,True
+Pump D volume since reset (mL),Pump,0.8812,Total Volume,0.9862,milliliter,0.6042,Pump Line,0.8673,PV,0.7023,False
+O₂ valve open (%),Steam,0.3737,On/Off,0.4877,milliliter,0.3142,Offgas,0.3565,PV,0.7991,True
+Pump B pump command,Pump,0.9992,Flowrate,0.369,milliliter,0.892,Pump Line,0.7691,CO,0.5264,True
+CO₂ mix_SP (%),Steam,0.2309,Other Metadata,0.4054,milliliter,0.4909,Feed Line,0.3294,PV,0.5614,True
+Pump A total volume (mL),Air,0.3274,Total Volume,0.9986,milliliter,0.9723,Pump Line,0.4043,PV,0.6314,True
+DO spot phase (Phase),Temperature,0.2165,Other Metadata,0.4248,milliliter,0.6225,Feed Line,0.3906,PV,0.7662,True
+O₂ (headspace) valve open (%),Steam,0.3581,On/Off,0.4545,milliliter,0.56,Headspace,0.9931,PV,0.6539,True
+Off-gas O₂% (%),Oxygen,0.976,Flowrate,0.2973,milliliter,0.4792,Offgas,1,PV,0.8218,True
+Feed#4 volume pumped (mL),Pump,0.9872,Total Volume,0.5717,milliliter,0.3669,Feed Line,0.7122,PV,0.7537,False
+Acid volume since reset (mL),Acid,1,Total Volume,0.2904,milliliter,0.4847,Acid Line,1,PV,0.7771,True
+Evaluation counter,Temperature,0.2562,Other Metadata,0.4474,milliliter,0.4517,Feed Line,0.4461,PV,0.6992,True
+Pump C pulse flow off time_SP (s),Pump,0.9411,Cycle Time,0.7182,milliliter,0.6526,Pump Line,0.9999,SP,0.5917,False
+Pump B total volume (mL),Pump,0.8547,Total Volume,0.9995,milliliter,0.8717,Feed Line,0.348,PV,0.6836,True
+Off-gas O₂% net of humidity (%),Oxygen,0.54,Other Metadata,0.6423,percent,0.5757,Offgas,1,PV,0.6598,False
+Gas throttle ratio,Gas,1,Flowrate,0.9396,milliliter,0.6071,Gas Inlet,0.6981,PV,0.6286,False
+Antifoam reference volume pumped (mL),Antifoam,0.9847,Flowrate,0.8954,milliliter,0.5228,Pump Line,0.9576,PV,0.7141,False
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.LastError,Carbon Dioxide,0.1418,Other Metadata,0.5318,milliliter,0.375,Feed Line,0.3365,PV,0.7327,True
+CO₂ volume (L),Carbon Dioxide,0.2777,Total Volume,0.9804,milliliter,0.4026,Feed Line,0.3035,PV,0.7204,True
+Pump A pulse flow rate (mL/h),Steam,0.2719,Flowrate,0.9964,milliliter/second,0.29,Pump Line,0.4506,PV,0.5021,True
+Feed#3 volume pumped (mL),Pump,0.9796,Total Volume,0.5826,milliliter,0.4366,Feed Line,0.745,PV,0.7564,False
+Pump D flow rate (motor counts) (counts/h),Pump,0.3374,Flowrate,0.9899,hour,0.9498,Pump Line,0.9909,PV,0.7886,True
+Antifoam flow rate (raw) (mL/h),Antifoam,0.9583,Flowrate,0.9906,bar,0.3225,Feed Line,0.3308,PV,0.7004,True
+Pump B fallback averaging time (s),Pump,0.9889,Cycle Time,0.9935,milliliter,0.3094,Pump Line,0.9991,PV,0.6645,False
+CO₂ correction factor,Carbon Dioxide,0.1509,Other Metadata,0.6724,milliliter,0.6216,Feed Line,0.3005,PV,0.7082,True
+Off-gas CO₂ active reading max (a-to-d count),Gas,0.2186,Other Metadata,0.2919,milliliter,0.7541,Offgas,1,PV,0.829,True
+Foam sensor (a-to-d count),Antifoam,0.7774,Flowrate,0.73,milliliter,0.5713,Feed Line,0.3822,PV,0.7007,True
+Pump B commanded total volume (mL),Pump,0.9731,Total Volume,0.9997,milliliter,0.771,Broth,0.2505,CO,0.8927,True
+Pump A CIP remaining volume (mL),CIP,0.8303,Total Volume,0.9897,milliliter,0.3149,Feed Line,0.3531,PV,0.5455,True
+CO₂ (headspace) flow (mL/min),Steam,0.5164,Flowrate,0.954,milliliter,0.4616,Headspace,0.9468,PV,0.6541,False
+Pump B volume since reset (mL),Pump,0.9653,Total Volume,0.9865,milliliter,0.6242,Pump Line,0.4997,PV,0.6469,True
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.ActiveLoopIndex,Carbon Dioxide,0.1195,% Activated,0.2808,milliliter,0.3287,Feed Line,0.3617,PV,0.7062,True
+O₂ (headspace) flow (mL/min),Steam,0.3802,Flowrate,0.9875,milliliter,0.448,Headspace,0.971,PV,0.7333,True
+Pump A commanded refill rate (mL/h),Pump,0.2451,Flowrate,0.9692,milliliter,0.5654,Pump Line,0.3413,CO,0.7966,True
+Pump B internal flow rate multiplier_SP,Pump,0.9517,Flowrate,0.7736,milliliter,0.8764,Pump Line,1,SP,0.5561,False
+Pump D volume relative to inlet (mL),Pump,0.6253,Total Volume,0.9551,milliliter,0.6306,Pump Line,0.3807,PV,0.6957,True
+Antifoam flow rate_SP (mL/h),Antifoam,0.8113,Flowrate,0.9893,bar,0.2071,Sample,0.4278,SP,0.5561,True
+5ceb56a6-95dd-4582-a154-1bfa70fb7a49_SP,Temperature,0.1498,Other Metadata,0.4161,milliliter,0.388,Sample,0.8783,SP,0.6535,True
+Off-gas lag time (s),Gas,0.9053,Cycle Time,0.9183,milliliter,0.6231,Offgas,1,PV,0.5992,False
+Pump B CIP start volume (mL),Pump,0.979,Total Volume,0.8386,milliliter,0.6859,Pump Line,0.6316,SP,0.4632,True
+Feed#1 flow rate multiplier_SP,Feed,0.5388,Flowrate,0.8763,milliliter,0.8582,Feed Line,0.9584,SP,0.5228,False
+Off-gas CO₂ reference reading max (a-to-d count),CER,0.199,Other Metadata,0.2823,milliliter,0.757,Offgas,1,PV,0.8714,True
+Clamp plate temperature (°C),Temperature,0.9375,Other Metadata,0.4249,milliliter,0.3467,Clamp Plate,0.9733,PV,0.6491,True
+Volume - process pipetting (mL),Air,0.2405,Total Volume,0.9538,milliliter,0.8907,Feed Line,0.4509,PV,0.7961,True
+Pump B refill rate_SP (mL/h),Pump,0.8511,Flowrate,0.8216,hour,0.8515,Pump Line,0.9853,SP,0.5833,False
+Heater (%),Heater,0.5491,Other Metadata,0.3972,milliliter,0.3051,Acid Line,0.2755,PV,0.668,True
+Clamp plate heater (%),Heater,0.665,% Activated,0.27,milliliter,0.5322,Clamp Plate,0.8342,PV,0.6668,True
+CO₂ (headspace) volume (L),Steam,0.3611,Total Volume,0.9976,milliliter,0.7067,Headspace,0.9979,PV,0.7026,True
+Pump B respond to hardware interlock_SP,Pump,0.9543,Flowrate,0.4811,bar,0.9991,Pump Line,0.9507,SP,0.6706,True
+Air (headspace) primary flow_SP (mL/min),Air,0.8919,Flowrate,0.8272,milliliter,0.5,Headspace,0.981,SP,0.6001,False
+O₂ (headspace) added flow_SP (mL/min),Steam,0.655,Flowrate,0.9521,milliliter,0.7681,Headspace,0.993,SP,0.432,True
+Acid reference volume pumped (mL),Acid,0.9729,Flowrate,0.7302,milliliter,0.5152,Acid Line,1,PV,0.8173,False
+Pump B total volume (motor counts) (counts),Pump,0.7068,Total Volume,0.9762,milliliter,0.5985,Pump Line,0.5285,PV,0.8274,False
+Stir minimum speed (rpm),Stirrate,0.9985,Speed,0.9955,milliliter,0.5917,Feed Line,0.3489,PV,0.5387,True
+Pump D respond to hardware interlock_SP,Pump,0.7567,Flowrate,0.3803,bar,0.9051,Pump Line,0.9982,SP,0.6988,True
+Base flow rate multiplier_SP,Base,0.9987,Flowrate,0.4644,milliliter,0.8327,Base Line,1,SP,0.4108,True
+Off-gas CO₂% (%),Gas,0.4576,Other Metadata,0.2883,milliliter,0.5341,Offgas,1,PV,0.7631,True
+Feed#4 flow rate_SP (mL/h),Feed,0.8277,Flowrate,0.9902,hour,0.5326,Feed Line,0.6855,SP,0.5699,False
+Feed#1 flow rate (raw) (mL/h),Feed,0.9984,Flowrate,0.9967,milliliter/second,0.3953,Feed Line,0.8126,PV,0.6809,False
+N₂ (headspace) flow (mL/min),Steam,0.4249,Flowrate,0.9823,milliliter,0.3711,Headspace,1,PV,0.6181,True
+Pump B pulse flow rate (mL/h),Pump,0.8884,Flowrate,0.9969,milliliter,0.2691,Pump Line,0.5601,PV,0.5622,False
+Pump D pulse flow off time_SP (s),Pump,0.8577,Cycle Time,0.6182,milliliter,0.6919,Pump Line,0.9987,SP,0.7525,False
+Off-gas CO₂ sensor temperature (°C),Temperature,0.4665,Other Metadata,0.4801,milliliter,0.5679,Offgas,1,PV,0.8236,True
+Stir direction,Stirrate,0.9801,Speed,0.446,milliliter,0.8034,Broth,0.3901,PV,0.5955,True
+Pump C flow rate multiplier_SP,Pump,0.981,Flowrate,0.7209,milliliter,0.8377,Pump Line,1,SP,0.491,True
+Acid flow rate_SP (mL/h),Acid,0.4059,Flowrate,0.992,hour,0.4399,Acid Line,1,SP,0.441,True
+DO spot amplitude (Amplitude),Oxygen,0.156,Other Metadata,0.4329,milliliter,0.5512,Feed Line,0.4303,PV,0.7932,True
+CO₂ valve open_SP (%),Steam,0.232,On/Off,0.4455,milliliter,0.471,Feed Line,0.2898,PV,0.4773,True
+CO₂ interpretation pressure (mbar),Pressure,0.9997,Flowrate,0.4261,bar,0.9305,Feed Line,0.2981,PV,0.7728,True
+Release gas pressure requested,Gas,0.9981,Flowrate,0.3506,bar,0.3278,Gas Inlet,0.9918,PV,0.4273,True
+Stir speed (rpm),Stirrate,1,Speed,0.9958,milliliter,0.6801,Feed Line,0.2675,PV,0.6937,True
+Pump C volume relative to inlet (mL),CER,0.8094,Total Volume,0.92,milliliter,0.6166,Pump Line,0.3708,PV,0.5498,True
+Pump B volume relative to inlet (mL),Pump,0.9924,Total Volume,0.9723,milliliter,0.6635,Gas Inlet,0.3278,PV,0.6372,True
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.LastError,Carbon Dioxide,0.1372,Other Metadata,0.5282,milliliter,0.3238,Feed Line,0.328,PV,0.6946,True
+Base volume since reset (mL),Base,1,Total Volume,0.8226,milliliter,0.6952,Base Line,1,PV,0.6782,False
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.IntegralError,Carbon Dioxide,0.1563,Other Metadata,0.5164,milliliter,0.3127,Feed Line,0.372,PV,0.6388,True
+Feed#1 volume since reset reference (mL),Feed,0.9631,Total Volume,0.8306,milliliter,0.4723,Feed Line,0.844,PV,0.6765,False
+Pump C flow rate (motor counts) (counts/h),Pump,0.7349,Flowrate,0.9597,hour,0.7182,Pump Line,0.9691,PV,0.7626,False
+Acid volume since reset reference (mL),Acid,0.9998,Flowrate,0.4081,milliliter,0.6235,Acid Line,1,PV,0.7543,True
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.IntegralError,Air,0.1653,Other Metadata,0.5329,milliliter,0.3379,Feed Line,0.3635,PV,0.6565,True
+Air (headspace) mix_SP (%),Air,0.9387,Other Metadata,0.809,milliliter,0.5983,Headspace,0.9377,PV,0.4173,True
+N₂ (headspace) valve open_SP (%),Steam,0.1938,Speed,0.256,milliliter,0.7244,Headspace,0.9998,PV,0.5905,True
+Feed#3 flow rate_SP (mL/h),Feed,0.8252,Flowrate,0.9911,hour,0.5176,Feed Line,0.6495,SP,0.5501,False
+Lights - reactor selected,Temperature,0.4652,Other Metadata,0.4394,milliliter,0.8505,Feed Line,0.3519,PV,0.6127,True
+N₂ added flow_SP (mL/min),Steam,0.6384,Flowrate,0.9917,,0.6821,Feed Line,0.3721,PV,0.4463,True
+Inlet O₂% (%),Oxygen,0.7729,Flowrate,0.9167,milliliter,0.5887,Gas Inlet,0.9997,PV,0.7145,False
+Pump A internal flow rate multiplier_SP,Temperature,0.1551,Flowrate,0.7761,milliliter,0.817,Pump Line,0.905,SP,0.597,True
+eb55980f-9532-4dd1-9520-16301f4e4293.IsEnabled_SP,Temperature,0.1487,On/Off,0.5764,kilogram,0.2737,Sample,0.7726,SP,0.4284,True
+Pump A flow rate (motor counts) (counts/h),Pump,0.7318,Flowrate,0.9802,hour,0.7003,Pump Line,0.9186,PV,0.7547,False
+Pump A flow rate multiplier_SP,Pump,0.2376,Flowrate,0.8495,milliliter,0.7682,Pump Line,0.9453,SP,0.5331,True
+Pump A stopped for change,Air,0.2765,On/Off,0.7438,milliliter,0.4507,Pump Line,0.9567,PV,0.5053,True
+Feed#2 flow rate (mL/h),Feed,0.998,Flowrate,0.9941,milliliter/second,0.3941,Feed Line,0.943,PV,0.7065,False
+Checked by liquid handler,Steam,0.3249,Other Metadata,0.6033,milliliter,0.747,Broth,0.3975,PV,0.7791,True
+Feed#1 flow rate (mL/h),Feed,0.9986,Flowrate,0.9943,milliliter/second,0.4722,Feed Line,0.8722,PV,0.7107,False
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.ActiveLoopIndex,Temperature,0.1021,Other Metadata,0.2834,milliliter,0.3758,Feed Line,0.3675,PV,0.6764,True
+CO₂ (headspace) valve open_SP (%),Gas,0.1687,On/Off,0.2287,milliliter,0.7113,Headspace,0.8682,PV,0.5295,True
+Stir minimum power (W),Stirrate,0.9995,Cycle Time,0.1925,milliliter,0.6402,Feed Line,0.3133,PV,0.6983,True
+Lights - light on,Air,0.275,Other Metadata,0.4502,milliliter,0.5811,Feed Line,0.3811,PV,0.7435,True
+Pump B volume per step (mL),Pump,0.9815,Total Volume,0.9281,milliliter,0.4706,Pump Line,0.543,PV,0.5678,False
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.IsEnabled_SP,Temperature,0.1658,On/Off,0.5456,milliliter,0.4169,Sample,0.9383,PV,0.3949,True
+Block temperature_SP (°C),Steam,0.2683,Other Metadata,0.6489,milliliter,0.2939,Feed Line,0.3756,SP,0.8409,True
+Antifoam volume since reset (mL),Antifoam,0.9532,Total Volume,0.4538,milliliter,0.4351,Feed Line,0.324,PV,0.6547,True
+Pump C total volume_SP (mL),Steam,0.4545,Total Volume,0.9944,milliliter,0.8343,Sample,0.2799,SP,0.5474,True
+Pump D commanded refill rate (mL/h),Pump,0.596,Flowrate,0.9803,milliliter,0.6753,Pump Line,0.763,CO,0.9505,False
+Pump C commanded refill rate (mL/h),Pump,0.8694,Flowrate,0.9751,milliliter,0.5762,Pump Line,0.9504,CO,0.956,False
+Pump D flow rate multiplier_SP,Pump,0.761,Flowrate,0.7339,milliliter,0.8527,Pump Line,0.9989,SP,0.5136,False
+Feed#4 flow rate multiplier_SP,Feed,0.4678,Flowrate,0.8257,milliliter,0.8607,Feed Line,0.9799,SP,0.4972,True
+pH_SP_Upper (pH),pH,0.8428,Other Metadata,0.5238,milliliter,0.4693,Feed Line,0.2336,SP,0.6072,True
+Foam sensor light reading (a-to-d count),Antifoam,0.7751,Other Metadata,0.3327,milliliter,0.5837,Feed Line,0.3049,PV,0.7453,True
+CER - unnormalized (mmol/h),CER,1,Other Metadata,0.3234,hour,0.8429,Feed Line,0.3933,PV,0.7366,True
+Pump B flow rate multiplier_SP,Pump,0.8919,Flowrate,0.8674,milliliter,0.861,Pump Line,0.9994,SP,0.5861,False
+Acid flow rate (mL/h),Acid,0.9897,Flowrate,0.9933,milliliter,0.2648,Acid Line,1,PV,0.6817,False
+(1/Total dry gas flow) (smoothed) (min/mL),Gas,0.9971,Flowrate,0.9474,minute,0.4527,Broth,0.7714,PV,0.5706,False
+Volume - net water loss (mL),Dissolved Oxygen,0.201,Total Volume,0.9923,milliliter,0.7316,Broth,0.4591,PV,0.7907,True
+DO_SP (% air sat.),Air,0.9996,% Activated,0.2529,percent air saturation,0.4349,Feed Line,0.3175,PV,0.5378,True
+Off-gas CO₂ reference reading (a-to-d count),CER,0.1961,Other Metadata,0.2839,milliliter,0.7743,Offgas,1,PV,0.8866,True
+Pump C flow rate_SP (mL/h),Pump,0.956,Flowrate,0.9902,hour,0.4241,Pump Line,0.8386,SP,0.6343,False
+O₂ (headspace) valve open_SP (%),Steam,0.2235,On/Off,0.3865,milliliter,0.7811,Headspace,0.6705,PV,0.6004,True
+O₂ (headspace) primary flow_SP (mL/min),Steam,0.5295,Flowrate,0.8087,milliliter,0.5681,Headspace,0.9946,SP,0.5201,False
+CO₂ (headspace) correction factor,Air,0.2082,Other Metadata,0.5042,milliliter,0.6661,Headspace,0.9827,PV,0.6315,True
+Pump D CIP remaining volume (mL),Pump,0.9661,Total Volume,0.9656,milliliter,0.4398,Feed Line,0.351,PV,0.6214,True
+Off-gas O₂ low range reading (a-to-d count),Oxygen,0.9885,Flowrate,0.3564,milliliter,0.6953,Offgas,1,PV,0.8355,True
+Total N₂ flow (mL/min),Nitrogen,1,Flowrate,0.9885,milliliter,0.7128,Offgas,0.487,PV,0.686,True
+N₂ primary flow_SP (mL/min),Steam,0.9243,Flowrate,0.9623,milliliter/second,0.4433,Feed Line,0.3709,SP,0.6298,True
+OUR (mmol/L/h),OUR,0.9994,Flowrate,0.3507,hour,0.9133,Feed Line,0.3265,PV,0.7634,True
+Air primary flow_SP (mL/min),Air,0.9835,Flowrate,0.9632,milliliter,0.4884,Feed Line,0.4341,SP,0.7548,True
+CO₂ (headspace) mix_SP (%),Steam,0.2002,Other Metadata,0.6354,milliliter,0.6849,Headspace,0.9738,PV,0.6143,True
+DO spot reader enabled_SP,Temperature,0.2285,Other Metadata,0.2922,milliliter,0.6428,Feed Line,0.4243,SP,0.6133,True
+Pump C refill rate_SP (mL/h),Steam,0.264,Flowrate,0.6295,hour,0.7543,Pump Line,0.9571,SP,0.5248,True
+Pump A pulse flow on time_SP (s),Pressure,0.298,Speed,0.3147,milliliter,0.502,Pump Line,0.6207,SP,0.693,True
+Pump D commanded total volume (mL),Pump,0.978,Total Volume,0.9992,milliliter,0.8215,Feed Line,0.3049,CO,0.8441,True
+Pump A flow rate_SP (mL/h),Steam,0.8526,Flowrate,0.9858,hour,0.2837,Pump Line,0.4688,SP,0.5773,True
+OUR - unnormalized (mmol/h),OUR,0.9732,Other Metadata,0.4011,hour,0.9961,Feed Line,0.3792,PV,0.8034,True
+Pump D total volume_SP (mL),Steam,0.6719,Total Volume,0.9932,milliliter,0.7711,Feed Line,0.394,SP,0.5725,True
+Pump A volume since reset (mL),Air,0.288,Total Volume,0.9418,milliliter,0.577,Feed Line,0.3922,PV,0.6814,True
+CO₂ (headspace) flow_SP (mL/min),Steam,0.4609,Flowrate,0.9416,milliliter,0.5997,Headspace,0.9067,SP,0.538,True
+Feed#3 volume since reset reference (mL),Feed,0.9808,Total Volume,0.915,milliliter/second,0.355,Feed Line,0.8718,PV,0.7174,False
+Feed#4 reference volume pumped (mL),Pump,0.8807,Total Volume,0.4298,milliliter,0.4096,Pump Line,0.4808,PV,0.7776,True
+RQ,RQ,0.4933,Other Metadata,0.8215,milliliter,0.4947,Feed Line,0.4214,PV,0.7445,True
+Pump D bolus volume SP (mL),Pump,0.9821,Total Volume,0.5136,milliliter,0.3411,Pump Line,0.7661,SP,0.5136,False
+Air (headspace) flow_SP (mL/min),Air,0.8744,Flowrate,0.981,milliliter,0.6136,Headspace,0.9883,SP,0.6537,False
+N₂ flow (mL/min),Steam,0.3386,Flowrate,0.9794,milliliter/second,0.6954,Feed Line,0.3663,PV,0.6365,True
+Air valve open (%),Air,0.9781,Other Metadata,0.4361,milliliter,0.5515,Gas Inlet,0.4394,PV,0.5474,True
+Pump A commanded total volume (mL),Pump,0.5216,Total Volume,0.9998,milliliter,0.854,Feed Line,0.3834,CO,0.8204,True
+Step state counter,Temperature,0.244,Other Metadata,0.4703,milliliter,0.6032,Feed Line,0.5393,PV,0.6098,True
+Stir speed fallback averaging time (s),Stirrate,0.9856,Speed,0.5131,milliliter,0.5384,Feed Line,0.3431,PV,0.7354,True
+DO spot (% air sat.),Air,0.9992,% Activated,0.265,milliliter,0.293,Feed Line,0.4285,PV,0.5437,True
+pH before offset (pH),pH,0.9714,Other Metadata,0.4563,milliliter,0.394,Acid Line,0.4465,PV,0.7241,True
+Total dry gas flow (smoothed) (mL/min),Gas,0.999,Flowrate,0.9823,milliliter,0.4221,Offgas,0.3385,PV,0.5838,True
+Volume (mL),Air,0.3954,Total Volume,0.9983,milliliter,0.5816,Feed Line,0.4184,PV,0.7316,True
+CO₂ flow (mL/min),Steam,0.3252,Flowrate,0.9779,milliliter,0.4708,Feed Line,0.3049,PV,0.654,True
+N₂ volume (L),Steam,0.2493,Total Volume,0.9599,,0.7632,Feed Line,0.4432,PV,0.7443,True
+CO₂ flow_SP (mL/min),Steam,0.58,Flowrate,0.9862,milliliter,0.4887,Feed Line,0.3251,SP,0.5401,True
+Pump A refill rate_SP (mL/h),Steam,0.6874,Flowrate,0.604,hour,0.6687,Pump Line,0.3638,SP,0.5465,True
+Off-gas mixing time (s),Gas,0.9289,Cycle Time,0.6387,milliliter,0.5259,Offgas,1,PV,0.6289,False
+O₂ added flow_SP (mL/min),Steam,0.7814,Flowrate,0.9835,milliliter,0.6508,Feed Line,0.2628,PV,0.4769,True
+Feed#2 flow rate multiplier_SP,Feed,0.4904,Flowrate,0.7916,milliliter,0.8116,Feed Line,0.9896,SP,0.4625,True
+Total headspace gas volume (L),Gas,0.9991,Total Volume,0.9656,milliliter,0.8001,Headspace,1,PV,0.6726,False
+Pump C CIP remaining volume (mL),Pump,0.9784,Total Volume,0.977,milliliter,0.4011,Feed Line,0.3792,PV,0.5196,True
+Feed#3 flow rate (raw) (mL/h),Feed,0.9957,Flowrate,0.9954,milliliter/second,0.4328,Feed Line,0.7931,PV,0.7138,False
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.LastDifferentialError,Carbon Dioxide,0.1149,Other Metadata,0.6962,milliliter,0.3185,Feed Line,0.3135,PV,0.693,True
+pH_SP_(Lower) (pH),pH,0.3376,Other Metadata,0.4398,milliliter,0.335,Feed Line,0.2007,PV,0.4642,True
+pH.Probe.mV (mV),pH,0.8705,Other Metadata,0.5805,milliliter,0.4826,Broth,0.5012,PV,0.796,False
+Pump A pulse flow off time_SP (s),Pressure,0.3615,Flowrate,0.3519,milliliter,0.5998,Pump Line,0.7573,SP,0.733,True
+Pump C volume since reset (mL),Pump,0.9144,Total Volume,0.9866,milliliter,0.5547,Pump Line,0.7509,PV,0.6824,False
+Off-gas O₂% - raw expected zero OUR (%),OUR,0.9636,On/Off,0.8287,milliliter,0.5942,Offgas,1,PV,0.7497,False
+Foam sensor dark reading (a-to-d count),Antifoam,0.966,Other Metadata,0.3473,milliliter,0.4498,Acid Line,0.5693,PV,0.8059,True
+Pump D pump command,Pump,0.998,Flowrate,0.3414,milliliter,0.8847,Pump Line,0.9294,CO,0.6211,True
+Pump B bolus volume SP (mL),Pump,0.9723,Total Volume,0.4351,milliliter,0.4096,Pump Line,0.8329,SP,0.5305,True
+Inlet O₂% (smoothed and lagged) (%),pH,0.1791,% Concentration,0.2205,milliliter,0.5414,Gas Inlet,0.9999,PV,0.6611,True
+Pump B commanded refill rate (mL/h),Pump,0.9639,Flowrate,0.9825,milliliter,0.602,Pump Line,0.703,CO,0.9388,False
+Air (headspace) valve open (%),Air,0.8023,Other Metadata,0.4235,milliliter,0.5278,Headspace,0.9996,PV,0.5182,True
+Feed#4 volume since reset reference (mL),Feed,0.9688,Total Volume,0.8934,milliliter/second,0.4388,Feed Line,0.8643,PV,0.7333,False
+Pump B flow rate (motor counts) (counts/h),Pump,0.8434,Flowrate,0.985,hour,0.8983,Pump Line,0.9982,PV,0.825,False
+Clamp plate temperature_SP (°C),Temperature,0.7171,Other Metadata,0.5223,milliliter,0.4673,Clamp Plate,0.8798,SP,0.8203,False
+Air flow (mL/min),Air,1,Flowrate,0.9852,milliliter,0.4084,Feed Line,0.2588,PV,0.6254,True
+Gas composition measured (%),Gas,1,Flowrate,0.9205,bar,0.992,Offgas,0.9996,PV,0.8736,False
+Feed#3 flow rate (mL/h),Feed,0.9955,Flowrate,0.9928,milliliter/second,0.4808,Feed Line,0.8234,PV,0.7524,False
+Normalisation volume (mL),Air,0.3233,Total Volume,0.946,milliliter,0.5299,Feed Line,0.4034,PV,0.778,True
+Inlet H₂O% (%),Oxygen,0.3127,Flowrate,0.8849,milliliter,0.362,Gas Inlet,0.9985,PV,0.6661,True
+Pump B volume pumped (mL),Pump,0.9998,Total Volume,0.634,milliliter,0.5687,Pump Line,0.5902,PV,0.6973,False
+Pump C total volume (mL),Pump,0.9562,Total Volume,0.9994,milliliter,0.8818,Broth,0.2812,PV,0.6174,True
+CO₂ (headspace) valve open (%),Gas,0.2958,Other Metadata,0.2816,milliliter,0.5392,Headspace,0.985,PV,0.6819,True
+Inlet O₂% (smoothed) (%),pH,0.4243,% Concentration,0.2873,milliliter,0.5184,Gas Inlet,0.9929,PV,0.6747,True
+Feed#3 flow rate multiplier_SP,Feed,0.4823,Flowrate,0.8151,milliliter,0.8586,Feed Line,0.9687,SP,0.4709,True
+Air (headspace) volume (L),Air,0.9984,Total Volume,0.998,milliliter,0.4754,Headspace,0.9998,PV,0.6051,False
+Off-gas CO₂ active reading min (a-to-d count),Carbon Dioxide,0.1694,Other Metadata,0.2561,milliliter,0.7493,Offgas,1,PV,0.8215,True
+Pump C stopped for change,CER,0.6108,On/Off,0.7432,milliliter,0.3663,Pump Line,0.9997,CO,0.4286,True
+Feed#1 volume pumped (mL),Pump,0.9515,Total Volume,0.604,milliliter,0.664,Feed Line,0.7683,PV,0.7274,False
+Total dry gas flow (smoothed and lagged) (mL/min),Gas,0.9976,Flowrate,0.9645,milliliter,0.4198,Acid Line,0.5072,PV,0.6429,False
+Acid flow rate multiplier_SP,Temperature,0.1419,Flowrate,0.7267,milliliter,0.7599,Acid Line,1,PV,0.4465,True
+Feed#1 flow rate_SP (mL/h),Feed,0.9127,Flowrate,0.9911,hour,0.2897,Feed Line,0.6254,SP,0.5714,False
+CER (mmol/L/h),CER,1,% Concentration,0.2893,milliliter/second,0.3041,Feed Line,0.3175,PV,0.6909,True
+O₂ (headspace) volume (L),Steam,0.3763,Total Volume,0.9967,milliliter,0.7983,Headspace,0.9999,PV,0.7668,True
+Air (headspace) flow (mL/min),Air,1,Flowrate,0.988,milliliter,0.706,Headspace,0.9999,PV,0.5354,False
+pH.Probe.Temperature (°C),Temperature,0.7071,Other Metadata,0.6716,milliliter,0.5489,Broth,0.4451,PV,0.721,True
+Pump C pulse flow on time_SP (s),Pump,0.7207,Cycle Time,0.6415,milliliter,0.5507,Pump Line,0.9409,SP,0.6326,False
+Mass flow sensor zero gas flow reading (mL/min),Gas,0.6064,Flowrate,0.9876,milliliter,0.8328,Offgas,0.7889,PV,0.8676,False
+Block temperature (°C),Temperature,0.9765,Other Metadata,0.6181,milliliter,0.3728,Broth,0.2572,PV,0.6803,True
+N₂ (headspace) flow_SP (mL/min),Steam,0.4078,Flowrate,0.9656,milliliter,0.5352,Headspace,0.9999,SP,0.4944,True
+Stir average power (W),Stirrate,0.9935,Speed,0.2635,milliliter,0.5316,Feed Line,0.3055,PV,0.7733,True
+Pump D internal flow rate multiplier_SP,Pump,0.9306,Flowrate,0.6712,milliliter,0.8772,Pump Line,0.9999,SP,0.5658,False
+Air (headspace) correction factor,Air,0.9908,Other Metadata,0.6175,milliliter,0.6616,Headspace,0.9999,PV,0.6121,False
+Pump C syringe percent full (%),Pump,0.9924,Speed,0.5479,percent,0.9999,Feed Line,0.5133,PV,0.6379,False
+Air mix_SP (%),Air,1,Other Metadata,0.4573,milliliter,0.5892,Feed Line,0.4855,PV,0.4587,True
+Off-gas CO₂ reference reading min (a-to-d count),Gas,0.1972,Other Metadata,0.315,milliliter,0.7356,Offgas,1,PV,0.8849,True
+O₂ valve open_SP (%),Steam,0.3982,On/Off,0.6945,milliliter,0.5383,Offgas,0.2881,PV,0.6073,True
+O₂ correction factor,Temperature,0.1524,Other Metadata,0.6312,milliliter,0.622,Broth,0.2586,PV,0.7903,True
+Total gas volume (L),Gas,1,Total Volume,0.9984,milliliter,0.7601,Offgas,0.3914,PV,0.7039,True
+Pump D total volume (mL),Pump,0.5974,Total Volume,0.9945,milliliter,0.7528,Feed Line,0.3728,PV,0.6563,True
+CO₂ (headspace) primary flow_SP (mL/min),Steam,0.4929,Flowrate,0.7947,milliliter,0.6083,Headspace,0.9616,SP,0.5326,True
+06a17834-55e3-453d-9642-69e05b5031d8.IsEnabled_SP,Temperature,0.1731,On/Off,0.8289,milliliter,0.4649,Sample,0.8673,SP,0.4313,True
+CER (simple) (mmol/L/h),CER,1,% Concentration,0.2637,milliliter/second,0.2774,Offgas,0.2474,PV,0.6301,True
+Pump D flow rate_SP (mL/h),Pump,0.6344,Flowrate,0.9905,hour,0.3403,Pump Line,0.987,SP,0.649,False
+Pump B pulse flow on time_SP (s),Pump,0.7787,Cycle Time,0.5896,milliliter,0.6678,Pump Line,0.6754,SP,0.7719,False
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.LastError (raw),Carbon Dioxide,0.1628,Other Metadata,0.6746,milliliter,0.2873,Sample,0.2643,PV,0.7087,True
+Pump B syringe percent full (%),Pump,0.9373,Speed,0.6017,percent,0.9998,Feed Line,0.5056,PV,0.7461,False
+Pump D CIP start volume (mL),Pump,0.962,Total Volume,0.5257,milliliter,0.6232,Feed Line,0.3298,PV,0.4458,True
+Off-gas CO₂ active reading (a-to-d count),Gas,0.2472,Other Metadata,0.2623,milliliter,0.7941,Offgas,1,PV,0.8419,True
+Pump D pulse flow rate (mL/h),Pump,0.8066,Flowrate,0.9983,milliliter,0.2625,Pump Line,0.9263,PV,0.5204,False
+Base flow rate_SP (mL/h),Base,0.9962,Flowrate,0.983,milliliter,0.394,Base Line,1,SP,0.6913,False
+N₂ (headspace) volume (L),Steam,0.407,Total Volume,0.9946,milliliter,0.4748,Headspace,1,PV,0.7944,True
+CO₂ primary flow_SP (mL/min),Steam,0.9648,Flowrate,0.9613,milliliter,0.5919,Feed Line,0.3478,SP,0.5906,True
+Pump A commanded flow rate (mL/h),Steam,0.366,Flowrate,0.9966,milliliter/second,0.3062,Pump Line,0.5363,CO,0.6669,True
+Air flow_SP (mL/min),Air,0.9993,Flowrate,0.9663,milliliter,0.6442,Feed Line,0.4598,SP,0.666,True
+Bioreactors left to inoculate (bioreactors),Base,0.3,Total Volume,0.283,milliliter,0.5166,Broth,0.3255,PV,0.6868,True
+OUR - unnormalized (simple) (mmol/h),OUR,0.9893,Other Metadata,0.3701,hour,0.9976,Feed Line,0.4427,PV,0.7578,True
+Pump A pump command,Pump,0.8498,Flowrate,0.2695,milliliter,0.4795,Pump Line,0.9905,CO,0.5292,True
+Antifoam flow rate multiplier_SP,Temperature,0.2083,Flowrate,0.4676,milliliter,0.6119,Sample,0.3673,PV,0.4323,True
+DO before offset (% air sat.),Air,0.8729,% Activated,0.2769,percent,0.2754,Feed Line,0.3802,PV,0.6785,True
+Pump B total volume synced,Pump,0.9954,Total Volume,0.9977,milliliter,0.6908,Pump Line,0.874,PV,0.6796,False
+Feed#2 volume since reset reference (mL),Feed,0.9845,Total Volume,0.8356,milliliter,0.3635,Feed Line,0.889,PV,0.6878,False

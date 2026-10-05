@@ -1,0 +1,341 @@
+raw_label,correct_name,correct_submeasurement,correct_process_location,correct_signal_type
+Pump D commanded flow rate (mL/h),Pump,Flowrate,Pump Line,CO
+Off-gas O₂% raw from PCB (%),Oxygen,Other Metadata,Offgas,PV
+Total headspace gas flow (mL/min),Gas,Flowrate,Headspace,PV
+Pump B pulse flow off time_SP (s),Pump,Cycle Time,Pump Line,SP
+Pump D refill rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+Base flow rate (mL/h),Base,Flowrate,Base Line,PV
+Pump C CIP start volume (mL),Pump,Total Volume,Pump Line,PV
+Pump A total volume_SP (mL),Pump,Total Volume,Pump Line,SP
+Pump C pump command,Pump,[UNDEFINED],Pump Line,CO
+Feed#2 volume since reset (mL),Feed,Total Volume,Feed Line,PV
+Foam sensor enabled_SP,Antifoam,Other Metadata,[UNDEFINED],SP
+Stir maximum power (W),Stirrate,[UNDEFINED],Broth,PV
+Pump A total volume (motor counts) (counts),Pump,Total Volume,Pump Line,PV
+N₂ flow_SP (mL/min),Nitrogen,Flowrate,Gas Inlet,SP
+Stir direction_SP,Stirrate,Other Metadata,Broth,SP
+Steps locked for editing,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Feed#2 reference volume pumped (mL),Pump,Total Volume,Feed Line,PV
+CO₂ added flow_SP (mL/min),Carbon Dioxide,Flowrate,Gas Inlet,SP
+OUR (simple) (mmol/L/h),OUR,[UNDEFINED],Offgas,PV
+Stir average speed (rpm),Stirrate,Speed,Broth,PV
+Air (headspace) added flow_SP (mL/min),Air,Flowrate,Headspace,SP
+Export enabled_SP,[UNDEFINED],Other Metadata,[UNDEFINED],SP
+Pump C syringe position (counts),Pump,Position,Pump Line,PV
+Pump D stopped for change,Pump,On/Off,Pump Line,PV
+Feed#1 volume since reset (mL),Feed,Total Volume,Feed Line,PV
+Chiller (%),Chiller,% Activated,Clamp Plate,PV
+Pump A syringe percent full (%),Pump,[UNDEFINED],Pump Line,PV
+Total gas flow (mL/min),Gas,Flowrate,Offgas,PV
+Antifoam volume since reset reference (mL),Antifoam,Total Volume,[UNDEFINED],PV
+N₂ correction factor,Nitrogen,Other Metadata,Gas Inlet,PV
+Acid flow rate (raw) (mL/h),Acid,Flowrate,Acid Line,PV
+N₂ (headspace) primary flow_SP (mL/min),Nitrogen,Flowrate,Headspace,SP
+Pump C bolus volume SP (mL),Pump,Total Volume,Pump Line,SP
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.LastDifferentialError,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Pump B syringe position (counts),Pump,Position,Pump Line,PV
+Pump C pulse flow rate (mL/h),Pump,Flowrate,Pump Line,PV
+Antifoam volume pumped (mL),Antifoam,Total Volume,[UNDEFINED],PV
+N₂ valve open (%),Nitrogen,[UNDEFINED],Gas Inlet,PV
+O₂ (headspace) correction factor,Oxygen,Other Metadata,Headspace,PV
+Acid volume pumped (mL),Acid,Total Volume,Acid Line,PV
+Pump C commanded total volume (mL),Pump,Total Volume,Pump Line,CO
+pH.Probe (pH),pH,Other Metadata,Broth,PV
+Pump B CIP remaining volume (mL),Pump,Total Volume,Pump Line,PV
+Pump C internal flow rate multiplier_SP,Pump,Other Metadata,Pump Line,SP
+Pump A CIP start volume (mL),CIP,Total Volume,Pump Line,PV
+O₂ volume (L),Oxygen,Total Volume,Gas Inlet,PV
+N₂ mix_SP (%),Nitrogen,Other Metadata,Gas Inlet,PV
+Stir maximum speed (rpm),Stirrate,Speed,Broth,PV
+Base flow rate (raw) (mL/h),Base,Flowrate,Base Line,PV
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.IsEnabled_SP,[UNDEFINED],On/Off,[UNDEFINED],SP
+Feed#4 flow rate (raw) (mL/h),Feed,Flowrate,Feed Line,PV
+Pump B stopped for change,Pump,On/Off,Pump Line,PV
+N₂ (headspace) added flow_SP (mL/min),Nitrogen,Flowrate,Headspace,SP
+Gas set,Gas,Other Metadata,[UNDEFINED],PV
+Pump C commanded flow rate (mL/h),Pump,Flowrate,Pump Line,CO
+Air (headspace) valve open_SP (%),Air,[UNDEFINED],Headspace,SP
+N₂ (headspace) valve open (%),Nitrogen,[UNDEFINED],Headspace,PV
+CO₂ (headspace) added flow_SP (mL/min),Carbon Dioxide,Flowrate,Headspace,SP
+Bioreactor pressure reading (mbar),Pressure,[UNDEFINED],Headspace,PV
+Pump A respond to hardware interlock_SP,Pump,Other Metadata,Pump Line,SP
+Pump A bolus volume SP (mL),Pump,Total Volume,Pump Line,SP
+Volume pipetted - Antifoam solution (mL),Antifoam,Total Volume,[UNDEFINED],PV
+Antifoam flow rate (mL/h),Antifoam,Flowrate,[UNDEFINED],PV
+Base volume pumped (mL),Base,Total Volume,Base Line,PV
+O₂ flow (mL/min),Oxygen,Flowrate,Gas Inlet,PV
+CER - unnormalized (simple) (mmol/h),CER,Other Metadata,Offgas,PV
+N₂ (headspace) correction factor,Nitrogen,Other Metadata,Headspace,PV
+Feed#3 reference volume pumped (mL),Feed,Total Volume,Feed Line,PV
+Feed#2 flow rate (raw) (mL/h),Feed,Flowrate,Feed Line,PV
+Pump D total volume (motor counts) (counts),Pump,Total Volume,Pump Line,PV
+Mass loss (g),[UNDEFINED],[UNDEFINED],Offgas,PV
+Off-gas calculations suppressed,Gas,Other Metadata,Offgas,PV
+CO₂ valve open (%),Carbon Dioxide,[UNDEFINED],Gas Inlet,PV
+N₂ (headspace) mix_SP (%),Nitrogen,Other Metadata,Headspace,SP
+Off-gas H₂O% (%),Gas,% Concentration,Offgas,PV
+Temperature (°C),Temperature,Other Metadata,Broth,PV
+Volume - sampled (mL),[UNDEFINED],Total Volume,Sample,PV
+Air volume (L),Air,Total Volume,Gas Inlet,PV
+Feed#3 volume since reset (mL),Feed,Total Volume,Feed Line,PV
+O₂ flow_SP (mL/min),Oxygen,Flowrate,Gas Inlet,SP
+DO (% air sat.),Dissolved Oxygen,[UNDEFINED],Broth,PV
+Feed#2 flow rate_SP (mL/h),Feed,Flowrate,Feed Line,SP
+O₂ mix_SP (%),Oxygen,Other Metadata,Gas Inlet,SP
+Feed#1 reference volume pumped (mL),Feed,Total Volume,Feed Line,PV
+Air added flow_SP (mL/min),Air,Flowrate,Gas Inlet,SP
+Off-gas CO₂ thermistor reading (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+Feed#4 volume since reset (mL),Feed,Total Volume,Feed Line,PV
+Pump A syringe position (counts),Pump,Position,Pump Line,PV
+Pump C respond to hardware interlock_SP,Pump,Other Metadata,Pump Line,SP
+Volume pipetted - Unknown (mL),[UNDEFINED],Total Volume,[UNDEFINED],PV
+Pump D syringe position (counts),Pump,Position,Pump Line,PV
+Clamp plate chiller (%),Chiller,% Activated,Clamp Plate,PV
+Stir power standard deviation (W),Stirrate,[UNDEFINED],Broth,PV
+Pump D pulse flow on time_SP (s),Pump,Cycle Time,Pump Line,SP
+O₂ (headspace) mix_SP (%),Oxygen,Other Metadata,Headspace,SP
+Total O₂ flow (mL/min),Oxygen,Flowrate,Offgas,PV
+O₂ (headspace) flow_SP (mL/min),Oxygen,Flowrate,Headspace,SP
+OUR_SP (mmol/L/h),OUR,[UNDEFINED],Offgas,SP
+Feed#2 volume pumped (mL),Feed,Total Volume,Feed Line,PV
+Pump D syringe percent full (%),Pump,[UNDEFINED],Pump Line,PV
+Temperature_SP (°C),Temperature,[UNDEFINED],Broth,SP
+Air correction factor,Air,Other Metadata,Gas Inlet,PV
+Pump A volume relative to inlet (mL),Pump,Total Volume,Pump Line,PV
+Pump C total volume (motor counts) (counts),Pump,Total Volume,Pump Line,PV
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.LastError (raw),[UNDEFINED],Other Metadata,[UNDEFINED],PV
+O₂ primary flow_SP (mL/min),Oxygen,Flowrate,Gas Inlet,SP
+Stir speed standard deviation (rpm),Stirrate,Speed,Broth,PV
+Feed#4 flow rate (mL/h),Feed,Flowrate,Feed Line,PV
+CO₂ interpretation pressure_SP (mbar),[UNDEFINED],Other Metadata,Gas Inlet,SP
+Pump D volume since reset (mL),Pump,Total Volume,Pump Line,PV
+O₂ valve open (%),Oxygen,[UNDEFINED],Gas Inlet,PV
+Pump B pump command,Pump,[UNDEFINED],Pump Line,CO
+CO₂ mix_SP (%),Carbon Dioxide,Other Metadata,Gas Inlet,SP
+Pump A total volume (mL),Pump,Total Volume,Pump Line,PV
+DO spot phase (Phase),Dissolved Oxygen,Other Metadata,Broth,PV
+O₂ (headspace) valve open (%),Oxygen,[UNDEFINED],Headspace,PV
+Off-gas O₂% (%),Oxygen,% Concentration,Offgas,PV
+Feed#4 volume pumped (mL),Feed,Total Volume,Feed Line,PV
+Acid volume since reset (mL),Acid,Total Volume,Acid Line,PV
+Evaluation counter,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Pump C pulse flow off time_SP (s),Pump,Cycle Time,Pump Line,SP
+Pump B total volume (mL),Pump,Total Volume,Pump Line,PV
+Off-gas O₂% net of humidity (%),Oxygen,Other Metadata,Offgas,PV
+Gas throttle ratio,Gas,[UNDEFINED],Gas Inlet,PV
+Antifoam reference volume pumped (mL),Antifoam,Total Volume,[UNDEFINED],PV
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.LastError,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+CO₂ volume (L),Carbon Dioxide,Total Volume,Gas Inlet,PV
+Pump A pulse flow rate (mL/h),Pump,Flowrate,Pump Line,PV
+Feed#3 volume pumped (mL),Feed,Total Volume,Feed Line,PV
+Pump D flow rate (motor counts) (counts/h),Pump,Other Metadata,Pump Line,PV
+Antifoam flow rate (raw) (mL/h),Antifoam,Flowrate,[UNDEFINED],PV
+Pump B fallback averaging time (s),Pump,Cycle Time,Pump Line,PV
+CO₂ correction factor,Carbon Dioxide,Other Metadata,Gas Inlet,PV
+Off-gas CO₂ active reading max (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+Foam sensor (a-to-d count),Antifoam,On/Off,[UNDEFINED],PV
+Pump B commanded total volume (mL),Pump,Total Volume,Pump Line,CO
+Pump A CIP remaining volume (mL),CIP,Total Volume,Pump Line,PV
+CO₂ (headspace) flow (mL/min),Carbon Dioxide,Flowrate,Headspace,PV
+Pump B volume since reset (mL),Pump,Total Volume,Pump Line,PV
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.ActiveLoopIndex,[UNDEFINED],[UNDEFINED],[UNDEFINED],PV
+O₂ (headspace) flow (mL/min),Oxygen,Flowrate,Headspace,PV
+Pump A commanded refill rate (mL/h),Pump,Flowrate,Pump Line,CO
+Pump B internal flow rate multiplier_SP,Pump,Flowrate,Pump Line,SP
+Pump D volume relative to inlet (mL),Pump,Total Volume,Pump Line,PV
+Antifoam flow rate_SP (mL/h),Antifoam,Flowrate,[UNDEFINED],SP
+5ceb56a6-95dd-4582-a154-1bfa70fb7a49_SP,[UNDEFINED],Other Metadata,[UNDEFINED],[UNDEFINED]
+Off-gas lag time (s),Gas,[UNDEFINED],Offgas,PV
+Pump B CIP start volume (mL),Pump,Total Volume,Pump Line,PV
+Feed#1 flow rate multiplier_SP,Feed,Other Metadata,Feed Line,SP
+Off-gas CO₂ reference reading max (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+Clamp plate temperature (°C),Temperature,[UNDEFINED],Clamp Plate,PV
+Volume - process pipetting (mL),[UNDEFINED],Total Volume,[UNDEFINED],PV
+Pump B refill rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+Heater (%),Heater,% Activated,[UNDEFINED],PV
+Clamp plate heater (%),Heater,% Activated,Clamp Plate,PV
+CO₂ (headspace) volume (L),Carbon Dioxide,Total Volume,Headspace,PV
+Pump B respond to hardware interlock_SP,Pump,Other Metadata,Pump Line,SP
+Air (headspace) primary flow_SP (mL/min),Air,Flowrate,Headspace,SP
+O₂ (headspace) added flow_SP (mL/min),Oxygen,Flowrate,Headspace,SP
+Acid reference volume pumped (mL),Acid,Total Volume,Acid Line,PV
+Pump B total volume (motor counts) (counts),Pump,Other Metadata,Pump Line,PV
+Stir minimum speed (rpm),Stirrate,Speed,Broth,PV
+Pump D respond to hardware interlock_SP,Pump,Other Metadata,Pump Line,SP
+Base flow rate multiplier_SP,Base,Other Metadata,Base Line,SP
+Off-gas CO₂% (%),Carbon Dioxide,% Concentration,Offgas,PV
+Feed#4 flow rate_SP (mL/h),Feed,Flowrate,Feed Line,SP
+Feed#1 flow rate (raw) (mL/h),Feed,Flowrate,Feed Line,PV
+N₂ (headspace) flow (mL/min),Nitrogen,Flowrate,Headspace,PV
+Pump B pulse flow rate (mL/h),Pump,Flowrate,Pump Line,PV
+Pump D pulse flow off time_SP (s),Pump,Cycle Time,Pump Line,SP
+Off-gas CO₂ sensor temperature (°C),[UNDEFINED],[UNDEFINED],Offgas,PV
+Stir direction,Stirrate,Other Metadata,Broth,PV
+Pump C flow rate multiplier_SP,Pump,Flowrate,Pump Line,SP
+Acid flow rate_SP (mL/h),Acid,Flowrate,Acid Line,SP
+DO spot amplitude (Amplitude),[UNDEFINED],Other Metadata,Broth,PV
+CO₂ valve open_SP (%),Carbon Dioxide,[UNDEFINED],Gas Inlet,SP
+CO₂ interpretation pressure (mbar),[UNDEFINED],[UNDEFINED],Gas Inlet,PV
+Release gas pressure requested,[UNDEFINED],[UNDEFINED],Gas Inlet,PV
+Stir speed (rpm),Stirrate,Speed,Broth,PV
+Pump C volume relative to inlet (mL),Pump,Total Volume,Pump Line,PV
+Pump B volume relative to inlet (mL),Pump,Total Volume,Pump Line,PV
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.LastError,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Base volume since reset (mL),Base,Total Volume,Base Line,PV
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.IntegralError,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Feed#1 volume since reset reference (mL),Feed,Total Volume,Feed Line,PV
+Pump C flow rate (motor counts) (counts/h),Pump,Other Metadata,Pump Line,PV
+Acid volume since reset reference (mL),Acid,Other Metadata,Acid Line,PV
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.IntegralError,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Air (headspace) mix_SP (%),Air,Other Metadata,Headspace,SP
+N₂ (headspace) valve open_SP (%),Nitrogen,[UNDEFINED],Headspace,SP
+Feed#3 flow rate_SP (mL/h),Feed,Flowrate,Feed Line,SP
+Lights - reactor selected,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+N₂ added flow_SP (mL/min),Nitrogen,Flowrate,Gas Inlet,SP
+Inlet O₂% (%),Oxygen,% Concentration,Gas Inlet,PV
+Pump A internal flow rate multiplier_SP,Pump,Other Metadata,Pump Line,SP
+eb55980f-9532-4dd1-9520-16301f4e4293.IsEnabled_SP,[UNDEFINED],[UNDEFINED],[UNDEFINED],SP
+Pump A flow rate (motor counts) (counts/h),Pump,Other Metadata,Pump Line,PV
+Pump A flow rate multiplier_SP,Pump,Other Metadata,Pump Line,SP
+Pump A stopped for change,Pump,On/Off,Pump Line,PV
+Feed#2 flow rate (mL/h),Feed,Flowrate,Feed Line,PV
+Checked by liquid handler,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Feed#1 flow rate (mL/h),Feed,Flowrate,Feed Line,PV
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.ActiveLoopIndex,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+CO₂ (headspace) valve open_SP (%),Carbon Dioxide,[UNDEFINED],Headspace,SP
+Stir minimum power (W),Stirrate,[UNDEFINED],Broth,PV
+Lights - light on,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Pump B volume per step (mL),Pump,[UNDEFINED],Pump Line,PV
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.IsEnabled_SP,[UNDEFINED],On/Off,[UNDEFINED],SP
+Block temperature_SP (°C),Temperature,[UNDEFINED],Clamp Plate,SP
+Antifoam volume since reset (mL),Antifoam,Total Volume,Feed Line,PV
+Pump C total volume_SP (mL),Pump,Total Volume,Pump Line,SP
+Pump D commanded refill rate (mL/h),Pump,Flowrate,Pump Line,CO
+Pump C commanded refill rate (mL/h),Pump,Flowrate,Pump Line,CO
+Pump D flow rate multiplier_SP,Pump,Other Metadata,Pump Line,SP
+Feed#4 flow rate multiplier_SP,Feed,Other Metadata,Feed Line,SP
+pH_SP_Upper (pH),pH,Other Metadata,Broth,SP
+Foam sensor light reading (a-to-d count),Antifoam,Other Metadata,[UNDEFINED],PV
+CER - unnormalized (mmol/h),CER,Other Metadata,Offgas,PV
+Pump B flow rate multiplier_SP,Pump,Other Metadata,Pump Line,SP
+Acid flow rate (mL/h),Acid,Flowrate,Acid Line,PV
+(1/Total dry gas flow) (smoothed) (min/mL),Gas,Flowrate,Gas Inlet,PV
+Volume - net water loss (mL),[UNDEFINED],Total Volume,[UNDEFINED],PV
+DO_SP (% air sat.),Dissolved Oxygen,[UNDEFINED],Broth,SP
+Off-gas CO₂ reference reading (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+Pump C flow rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+O₂ (headspace) valve open_SP (%),Oxygen,[UNDEFINED],Headspace,SP
+O₂ (headspace) primary flow_SP (mL/min),Oxygen,Flowrate,Headspace,SP
+CO₂ (headspace) correction factor,Carbon Dioxide,Other Metadata,Headspace,PV
+Pump D CIP remaining volume (mL),Pump,Total Volume,Pump Line,PV
+Off-gas O₂ low range reading (a-to-d count),Oxygen,Other Metadata,Offgas,PV
+Total N₂ flow (mL/min),Nitrogen,Flowrate,Gas Inlet,PV
+N₂ primary flow_SP (mL/min),Nitrogen,Flowrate,Gas Inlet,SP
+OUR (mmol/L/h),OUR,[UNDEFINED],Offgas,PV
+Air primary flow_SP (mL/min),Air,Flowrate,Gas Inlet,SP
+CO₂ (headspace) mix_SP (%),Carbon Dioxide,[UNDEFINED],Headspace,SP
+DO spot reader enabled_SP,Dissolved Oxygen,Other Metadata,Broth,SP
+Pump C refill rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+Pump A pulse flow on time_SP (s),Pump,Cycle Time,[UNDEFINED],SP
+Pump D commanded total volume (mL),Pump,Total Volume,Pump Line,CO
+Pump A flow rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+OUR - unnormalized (mmol/h),OUR,[UNDEFINED],[UNDEFINED],PV
+Pump D total volume_SP (mL),Pump,Total Volume,Pump Line,SP
+Pump A volume since reset (mL),Pump,Total Volume,Pump Line,PV
+CO₂ (headspace) flow_SP (mL/min),Carbon Dioxide,Flowrate,Headspace,SP
+Feed#3 volume since reset reference (mL),Feed,Total Volume,Feed Line,PV
+Feed#4 reference volume pumped (mL),Feed,Total Volume,Feed Line,PV
+RQ,RQ,[UNDEFINED],[UNDEFINED],PV
+Pump D bolus volume SP (mL),Pump,[UNDEFINED],Pump Line,SP
+Air (headspace) flow_SP (mL/min),Air,Flowrate,Headspace,SP
+N₂ flow (mL/min),Nitrogen,Flowrate,Gas Inlet,PV
+Air valve open (%),Air,[UNDEFINED],Gas Inlet,PV
+Pump A commanded total volume (mL),Pump,Total Volume,Pump Line,CO
+Step state counter,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Stir speed fallback averaging time (s),Stirrate,Other Metadata,Broth,PV
+DO spot (% air sat.),Dissolved Oxygen,[UNDEFINED],Broth,PV
+pH before offset (pH),pH,Other Metadata,Broth,PV
+Total dry gas flow (smoothed) (mL/min),Gas,Flowrate,Gas Inlet,PV
+Volume (mL),[UNDEFINED],Total Volume,Broth,PV
+CO₂ flow (mL/min),Carbon Dioxide,Flowrate,Gas Inlet,PV
+N₂ volume (L),Nitrogen,Total Volume,Gas Inlet,PV
+CO₂ flow_SP (mL/min),Carbon Dioxide,Flowrate,Gas Inlet,SP
+Pump A refill rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+Off-gas mixing time (s),Gas,Cycle Time,Offgas,PV
+O₂ added flow_SP (mL/min),Oxygen,Flowrate,Gas Inlet,SP
+Feed#2 flow rate multiplier_SP,Feed,Other Metadata,Feed Line,SP
+Total headspace gas volume (L),Gas,Total Volume,Headspace,PV
+Pump C CIP remaining volume (mL),Pump,Total Volume,Pump Line,PV
+Feed#3 flow rate (raw) (mL/h),Feed,Flowrate,Feed Line,PV
+aea419f2-5c98-4ffe-a487-5f0bee24cffb.LastDifferentialError,[UNDEFINED],Other Metadata,[UNDEFINED],PV
+pH_SP_(Lower) (pH),pH,[UNDEFINED],Broth,SP
+pH.Probe.mV (mV),pH,Other Metadata,Broth,PV
+Pump A pulse flow off time_SP (s),Pump,Cycle Time,Pump Line,SP
+Pump C volume since reset (mL),Pump,Total Volume,Pump Line,PV
+Off-gas O₂% - raw expected zero OUR (%),[UNDEFINED],Other Metadata,Offgas,PV
+Foam sensor dark reading (a-to-d count),Antifoam,Other Metadata,[UNDEFINED],PV
+Pump D pump command,Pump,Flowrate,Pump Line,CO
+Pump B bolus volume SP (mL),Pump,Total Volume,Pump Line,SP
+Inlet O₂% (smoothed and lagged) (%),Oxygen,% Concentration,Gas Inlet,PV
+Pump B commanded refill rate (mL/h),Pump,Flowrate,Pump Line,CO
+Air (headspace) valve open (%),Air,[UNDEFINED],Headspace,PV
+Feed#4 volume since reset reference (mL),Feed,Total Volume,Feed Line,PV
+Pump B flow rate (motor counts) (counts/h),Pump,Other Metadata,Pump Line,PV
+Clamp plate temperature_SP (°C),Temperature,Other Metadata,Clamp Plate,SP
+Air flow (mL/min),Air,Flowrate,Feed Line,PV
+Gas composition measured (%),Gas,% Concentration,Offgas,PV
+Feed#3 flow rate (mL/h),Feed,Flowrate,Feed Line,PV
+Normalisation volume (mL),[UNDEFINED],Total Volume,Broth,PV
+Inlet H₂O% (%),Water Vapor,% Concentration,Gas Inlet,PV
+Pump B volume pumped (mL),Pump,Total Volume,Pump Line,PV
+Pump C total volume (mL),Pump,Total Volume,Pump Line,PV
+CO₂ (headspace) valve open (%),Carbon Dioxide,[UNDEFINED],Headspace,PV
+Inlet O₂% (smoothed) (%),Oxygen,% Concentration,Gas Inlet,PV
+Feed#3 flow rate multiplier_SP,Feed,Flowrate,Feed Line,SP
+Air (headspace) volume (L),Air,Total Volume,Headspace,PV
+Off-gas CO₂ active reading min (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+Pump C stopped for change,Pump,On/Off,Pump Line,PV
+Feed#1 volume pumped (mL),Feed,Total Volume,Feed Line,PV
+Total dry gas flow (smoothed and lagged) (mL/min),Gas,Flowrate,Gas Inlet,PV
+Acid flow rate multiplier_SP,Acid,Other Metadata,Acid Line,SP
+Feed#1 flow rate_SP (mL/h),Feed,Flowrate,Feed Line,SP
+CER (mmol/L/h),CER,[UNDEFINED],Offgas,PV
+O₂ (headspace) volume (L),Oxygen,Total Volume,Headspace,PV
+Air (headspace) flow (mL/min),Air,Flowrate,Headspace,PV
+pH.Probe.Temperature (°C),[UNDEFINED],[UNDEFINED],Broth,PV
+Pump C pulse flow on time_SP (s),Pump,Cycle Time,Pump Line,SP
+Mass flow sensor zero gas flow reading (mL/min),Gas,Flowrate,Offgas,PV
+Block temperature (°C),Temperature,[UNDEFINED],[UNDEFINED],PV
+N₂ (headspace) flow_SP (mL/min),Nitrogen,Flowrate,Headspace,SP
+Stir average power (W),Stirrate,[UNDEFINED],Broth,PV
+Pump D internal flow rate multiplier_SP,Pump,Flowrate,Pump Line,SP
+Air (headspace) correction factor,Air,Other Metadata,Headspace,PV
+Pump C syringe percent full (%),Pump,[UNDEFINED],Pump Line,PV
+Air mix_SP (%),Air,Other Metadata,Gas Inlet,SP
+Off-gas CO₂ reference reading min (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+O₂ valve open_SP (%),Oxygen,[UNDEFINED],Gas Inlet,SP
+O₂ correction factor,Oxygen,Other Metadata,Gas Inlet,PV
+Total gas volume (L),Gas,Total Volume,[UNDEFINED],PV
+Pump D total volume (mL),Pump,Total Volume,Pump Line,PV
+CO₂ (headspace) primary flow_SP (mL/min),Carbon Dioxide,Flowrate,Headspace,SP
+06a17834-55e3-453d-9642-69e05b5031d8.IsEnabled_SP,[UNDEFINED],On/Off,[UNDEFINED],SP
+CER (simple) (mmol/L/h),CER,[UNDEFINED],Offgas,PV
+Pump D flow rate_SP (mL/h),Pump,Flowrate,Pump Line,SP
+Pump B pulse flow on time_SP (s),Pump,Cycle Time,Pump Line,SP
+1f6daeba-0d4a-4cb9-bbfd-36f23e5ea028.LastError (raw),[UNDEFINED],Other Metadata,[UNDEFINED],PV
+Pump B syringe percent full (%),Pump,[UNDEFINED],Pump Line,PV
+Pump D CIP start volume (mL),Pump,Total Volume,Pump Line,PV
+Off-gas CO₂ active reading (a-to-d count),Carbon Dioxide,Other Metadata,Offgas,PV
+Pump D pulse flow rate (mL/h),Pump,Flowrate,Pump Line,PV
+Base flow rate_SP (mL/h),Base,Flowrate,Base Line,SP
+N₂ (headspace) volume (L),Nitrogen,Total Volume,Headspace,PV
+CO₂ primary flow_SP (mL/min),Carbon Dioxide,Flowrate,Gas Inlet,SP
+Pump A commanded flow rate (mL/h),Pump,Flowrate,Pump Line,CO
+Air flow_SP (mL/min),Air,Flowrate,Gas Inlet,SP
+Bioreactors left to inoculate (bioreactors),[UNDEFINED],[UNDEFINED],[UNDEFINED],PV
+OUR - unnormalized (simple) (mmol/h),OUR,Other Metadata,Offgas,PV
+Pump A pump command,Pump,Flowrate,Pump Line,CO
+Antifoam flow rate multiplier_SP,Antifoam,Other Metadata,[UNDEFINED],SP
+DO before offset (% air sat.),Dissolved Oxygen,[UNDEFINED],Broth,PV
+Pump B total volume synced,Pump,Total Volume,Pump Line,PV
+Feed#2 volume since reset reference (mL),Feed,Total Volume,Feed Line,PV

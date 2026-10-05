@@ -1,0 +1,27 @@
+canonical_units,abbreviation
+milliliter,mL
+liter,L
+milliliter/hour,mL/h
+milliliter/minute,mL/min
+milliliter/second,mL/s
+rotations per minute,RPM
+percent,%
+percent air saturation,% sat.
+NULL,[No Unit]
+degree Celsius,degC
+degree Fahrenheit,degF
+millimole,mmol
+millimole/liter/hour,mmol/L/hr
+gram,g
+kilogram,kg
+gram/liter,g/L
+volume fraction,v/v
+Watt,W
+Volt,V
+Ampere,A
+bar,bar
+pound per square inch,psi
+standard cubic feet per minute,scfm
+hour,h
+minute,min
+second,s

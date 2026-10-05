@@ -1,0 +1,5 @@
+canonical_signal_type,description
+PV,"A measured variable. Abbreviated ‘PV’. If no indication is given, it’s usually this"
+SP,A setpoint. Abbreviated ‘SP’
+CO,A sent command. Abbreviated ‘CO’
+Calculation,A calculated variable derived from a process variable
